@@ -1,6 +1,7 @@
 {
     "partners": [
         {
+            "id": "mozio",
             "name": "Mozio",
             "code": null
         }
