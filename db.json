@@ -161,6 +161,20 @@
       "accept_color": "#29A81A",
       "logo_url": "DUMMY LOGO URL",
       "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "dertouristik",
+      "name": "Der Touristik",
+      "code": "DUMMY CODE",
+      "tint_color": "#CC0017",
+      "contrast_tint_color": "#CC0017",
+      "primary_color": "#CC0017",
+      "primary_light_color": "#E4808A",
+      "secondary_color": "#009FE3",
+      "error_color": "#FFBC12",
+      "accept_color": "#29A81A",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
     }
   ]
 }
