@@ -1,20 +1,152 @@
 {
-   "partners":[
-      {
-         "id":"mozio",
-         "name":"Mozio",
-         "code":null
-      },
-      {
-         "id":"accor",
-         "name":"AccorHotels",
-         "code":"accor2877",
-         "tint_color":"#FFFFFF",
-         "contrast_tint_color":"#FFFFFF",
-         "primary_color":"#38B7FE",
-         "primary_light_color":"#38B7FE",
-         "logo_url":"https://static.mozio.com/mobile/sdk/demo/accor/ic_logo_accor.png",
-         "screen_image_url":"https://static.mozio.com/mobile/sdk/demo/accor/accor_wide.png"
-      }
-   ]
+  "partners": [
+    {
+      "id": "mozio",
+      "name": "Mozio",
+      "code": null
+    },
+    {
+      "id": "accor",
+      "name": "AccorHotels",
+      "code": "accor2877",
+      "tint_color": "#FFFFFF",
+      "contrast_tint_color": "#FFFFFF",
+      "primary_color": "#38B7FE",
+      "primary_light_color": "#38B7FE",
+      "logo_url": "https://static.mozio.com/mobile/sdk/demo/accor/ic_logo_accor.png",
+      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/accor/accor_wide.png"
+    },
+    {
+      "id": "skyscanner",
+      "name": "Skyscanner",
+      "code": "DUMMY CODE",
+      "tint_color": "#00b2d6",
+      "contrast_tint_color": "#ffffff",
+      "primary_color": "#00B2D6",
+      "primary_light_color": "#7FD8EA",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "despegar",
+      "name": "Despegar",
+      "code": "DUMMY CODE",
+      "tint_color": "#013fa4",
+      "contrast_tint_color": "#ffffff",
+      "primary_color": "#013FA4",
+      "primary_light_color": "#7F9ED1",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "code": "DUMMY CODE",
+      "tint_color": "#f8f9fb",
+      "contrast_tint_color": "#000000",
+      "primary_color": "#FF5A60",
+      "primary_light_color": "#FFADB0",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "jal",
+      "name": "JAL",
+      "code": "DUMMY CODE",
+      "tint_color": "#282f39",
+      "contrast_tint_color": "#282f39",
+      "primary_color": "#DA2728",
+      "primary_light_color": "#231A16",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "agoda",
+      "name": "Agoda",
+      "code": "DUMMY CODE",
+      "tint_color": "#f6f6f6",
+      "contrast_tint_color": "#ffffff",
+      "primary_color": "#488BF8",
+      "primary_light_color": "#A3C4FB",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "ana",
+      "name": "Ana",
+      "code": "DUMMY CODE",
+      "tint_color": "#142657",
+      "contrast_tint_color": "#ffffff",
+      "primary_color": "#21409A",
+      "primary_light_color": "#00B3F0",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "singapore",
+      "name": "Singapore",
+      "code": "DUMMY CODE",
+      "tint_color": "#f8f8f6",
+      "contrast_tint_color": "#041e42",
+      "primary_color": "#041E42",
+      "primary_light_color": "#9D8D76",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "nokscoot",
+      "name": "NokScoot",
+      "code": "DUMMY CODE",
+      "tint_color": "#fee735",
+      "contrast_tint_color": "#ffffff",
+      "primary_color": "#FFCB0B",
+      "primary_light_color": "#52514E",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "code": "DUMMY CODE",
+      "tint_color": "#ffffff",
+      "contrast_tint_color": "#bac8d5",
+      "primary_color": "#02A992",
+      "primary_light_color": "#80D4C8",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "jetblue",
+      "name": "JetBlue",
+      "code": "DUMMY CODE",
+      "tint_color": "#ffffff",
+      "contrast_tint_color": "#3f8edd",
+      "primary_color": "#00205b",
+      "primary_light_color": "#3f8edd",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "amex",
+      "name": "Amex GBT",
+      "code": "DUMMY CODE",
+      "tint_color": "#ffffff",
+      "contrast_tint_color": "#67cbd7",
+      "primary_color": "#67cbd7",
+      "primary_light_color": "#67cbd7",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "priceline",
+      "name": "Priceline",
+      "code": "DUMMY CODE",
+      "tint_color": "#ffffff",
+      "contrast_tint_color": "#ffffff",
+      "primary_color": "#007AFF",
+      "primary_light_color": "#7FBCFF",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    }
+  ]
 }
