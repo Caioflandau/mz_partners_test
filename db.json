@@ -147,6 +147,20 @@
       "primary_light_color": "#7FBCFF",
       "logo_url": "DUMMY LOGO URL",
       "screen_image_url": "DUMMY SCREEN IMAGE URL"
+    },
+    {
+      "id": "lufthansa",
+      "name": "Lufthansa",
+      "code": "DUMMY CODE",
+      "tint_color": "#ffffff",
+      "contrast_tint_color": "#08174A",
+      "primary_color": "#08174A",
+      "primary_light_color": "#384D7C",
+      "secondary_color": "#F3B03E",
+      "error_color": "#BA2300",
+      "accept_color": "#29A81A",
+      "logo_url": "DUMMY LOGO URL",
+      "screen_image_url": "DUMMY SCREEN IMAGE URL"
     }
   ]
 }
