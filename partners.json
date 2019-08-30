@@ -1,6 +1,8 @@
-[
-    {
-        "name": "Mozio",
-        "code": null
-    }
-]
+{
+    "partners": [
+        {
+            "name": "Mozio",
+            "code": null
+        }
+    ]
+}
