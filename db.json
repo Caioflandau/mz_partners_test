@@ -13,30 +13,30 @@
       "contrast_tint_color": "#FFFFFF",
       "primary_color": "#38B7FE",
       "primary_light_color": "#38B7FE",
-      "logo_url": "https://static.mozio.com/mobile/sdk/demo/accor/ic_logo_accor.png",
-      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/accor/accor_wide.png"
+      "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_accor.png",
+      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/accor_wide.png"
     },
     {
       "id": "skyscanner",
       "name": "Skyscanner",
-      "code": "DUMMY CODE",
+      "code": null,
       "tint_color": "#00b2d6",
       "contrast_tint_color": "#ffffff",
       "primary_color": "#00B2D6",
       "primary_light_color": "#7FD8EA",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+      "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_skyscanner.png",
+      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/skyscanner_wide.png"
     },
     {
       "id": "despegar",
       "name": "Despegar",
-      "code": "DUMMY CODE",
+      "code": null,
       "tint_color": "#013fa4",
       "contrast_tint_color": "#ffffff",
       "primary_color": "#013FA4",
       "primary_light_color": "#7F9ED1",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
+      "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_despegar.png",
+      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/despegar_wide.png"
     },
     {
       "id": "airbnb",
