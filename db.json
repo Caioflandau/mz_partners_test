@@ -1,180 +1,207 @@
 {
-  "partners": [
-    {
-      "id": "mozio",
-      "name": "Mozio",
-      "code": null
-    },
-    {
-      "id": "accor",
-      "name": "AccorHotels",
-      "code": "accor2877",
-      "tint_color": "#FFFFFF",
-      "contrast_tint_color": "#FFFFFF",
-      "primary_color": "#38B7FE",
-      "primary_light_color": "#38B7FE",
-      "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_accor.png",
-      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/accor_wide.png"
-    },
-    {
-      "id": "skyscanner",
-      "name": "Skyscanner",
-      "code": null,
-      "tint_color": "#00b2d6",
-      "contrast_tint_color": "#ffffff",
-      "primary_color": "#00B2D6",
-      "primary_light_color": "#7FD8EA",
-      "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_skyscanner.png",
-      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/skyscanner_wide.png"
-    },
-    {
-      "id": "despegar",
-      "name": "Despegar",
-      "code": null,
-      "tint_color": "#013fa4",
-      "contrast_tint_color": "#ffffff",
-      "primary_color": "#013FA4",
-      "primary_light_color": "#7F9ED1",
-      "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_despegar.png",
-      "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/despegar_wide.png"
-    },
-    {
-      "id": "airbnb",
-      "name": "Airbnb",
-      "code": "DUMMY CODE",
-      "tint_color": "#f8f9fb",
-      "contrast_tint_color": "#000000",
-      "primary_color": "#FF5A60",
-      "primary_light_color": "#FFADB0",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "jal",
-      "name": "JAL",
-      "code": "DUMMY CODE",
-      "tint_color": "#282f39",
-      "contrast_tint_color": "#282f39",
-      "primary_color": "#DA2728",
-      "primary_light_color": "#231A16",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "agoda",
-      "name": "Agoda",
-      "code": "DUMMY CODE",
-      "tint_color": "#f6f6f6",
-      "contrast_tint_color": "#ffffff",
-      "primary_color": "#488BF8",
-      "primary_light_color": "#A3C4FB",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "ana",
-      "name": "Ana",
-      "code": "DUMMY CODE",
-      "tint_color": "#142657",
-      "contrast_tint_color": "#ffffff",
-      "primary_color": "#21409A",
-      "primary_light_color": "#00B3F0",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "singapore",
-      "name": "Singapore",
-      "code": "DUMMY CODE",
-      "tint_color": "#f8f8f6",
-      "contrast_tint_color": "#041e42",
-      "primary_color": "#041E42",
-      "primary_light_color": "#9D8D76",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "nokscoot",
-      "name": "NokScoot",
-      "code": "DUMMY CODE",
-      "tint_color": "#fee735",
-      "contrast_tint_color": "#ffffff",
-      "primary_color": "#FFCB0B",
-      "primary_light_color": "#52514E",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "kiwi",
-      "name": "Kiwi",
-      "code": "DUMMY CODE",
-      "tint_color": "#ffffff",
-      "contrast_tint_color": "#bac8d5",
-      "primary_color": "#02A992",
-      "primary_light_color": "#80D4C8",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "jetblue",
-      "name": "JetBlue",
-      "code": "DUMMY CODE",
-      "tint_color": "#ffffff",
-      "contrast_tint_color": "#3f8edd",
-      "primary_color": "#00205b",
-      "primary_light_color": "#3f8edd",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "amex",
-      "name": "Amex GBT",
-      "code": "DUMMY CODE",
-      "tint_color": "#ffffff",
-      "contrast_tint_color": "#67cbd7",
-      "primary_color": "#67cbd7",
-      "primary_light_color": "#67cbd7",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "priceline",
-      "name": "Priceline",
-      "code": "DUMMY CODE",
-      "tint_color": "#ffffff",
-      "contrast_tint_color": "#ffffff",
-      "primary_color": "#007AFF",
-      "primary_light_color": "#7FBCFF",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "lufthansa",
-      "name": "Lufthansa",
-      "code": "DUMMY CODE",
-      "tint_color": "#ffffff",
-      "contrast_tint_color": "#08174A",
-      "primary_color": "#08174A",
-      "primary_light_color": "#384D7C",
-      "secondary_color": "#F3B03E",
-      "error_color": "#BA2300",
-      "accept_color": "#29A81A",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": "DUMMY SCREEN IMAGE URL"
-    },
-    {
-      "id": "dertouristik",
-      "name": "Der Touristik",
-      "code": "DUMMY CODE",
-      "tint_color": "#CC0017",
-      "contrast_tint_color": "#CC0017",
-      "primary_color": "#CC0017",
-      "primary_light_color": "#E4808A",
-      "secondary_color": "#009FE3",
-      "error_color": "#FFBC12",
-      "accept_color": "#29A81A",
-      "logo_url": "DUMMY LOGO URL",
-      "screen_image_url": null
-    }
-  ]
+    "partners": [
+        {
+            "id": "mozio",
+            "name": "Mozio",
+            "code": null
+        },
+        {
+            "id": "skyscanner",
+            "name": "Skyscanner",
+            "code": null,
+            "tint_color": "#00b2d6",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#b2d600",
+            "primary_light_color": "#7fd8ea",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_skyscanner.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/skyscanner_narrow.png"
+        },
+        {
+            "id": "despegar",
+            "name": "Despegar",
+            "code": null,
+            "tint_color": "#013fa4",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#13fa40",
+            "primary_light_color": "#7f9ed1",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_despegar.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/despegar_narrow.png"
+        },
+        {
+            "id": "ifood",
+            "name": "iFood",
+            "code": "ifood3010",
+            "tint_color": "#ffffff",
+            "contrast_tint_color": "#e91c2c",
+            "primary_color": "#e91c2c",
+            "primary_light_color": "#f17680",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_ifood.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/ifood_narrow.png"
+        },
+        {
+            "id": "ana",
+            "name": "Ana",
+            "code": "ana0832",
+            "tint_color": "#142657",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#21409a",
+            "primary_light_color": "#b3f000",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_ana.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/ana_narrow.png"
+        },
+        {
+            "id": "agoda",
+            "name": "Agoda",
+            "code": "agoda6313",
+            "tint_color": "#f6f6f6",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#488bf8",
+            "primary_light_color": "#a3c4fb",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_agoda.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/agoda_narrow.png"
+        },
+        {
+            "id": "amex_gbt",
+            "name": "Amex GBT",
+            "code": "amex9903",
+            "tint_color": "#ffffff",
+            "contrast_tint_color": "#67cbd7",
+            "primary_color": "#67cbd7",
+            "primary_light_color": "#67cbd7",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_amex_gbt.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/amex_gbt_narrow.png"
+        },
+        {
+            "id": "airbnb",
+            "name": "Airbnb",
+            "code": "airbnb3256",
+            "tint_color": "#f8f9fb",
+            "contrast_tint_color": "#000000",
+            "primary_color": "#ff5a60",
+            "primary_light_color": "#ffadb0",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_airbnb.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/airbnb_narrow.png"
+        },
+        {
+            "id": "glovo",
+            "name": "Glovo",
+            "code": "glovo2510",
+            "tint_color": "#000000",
+            "contrast_tint_color": "#00a082",
+            "primary_color": "#ffbc12",
+            "primary_light_color": "#ffd670",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_glovo.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/glovo_narrow.png"
+        },
+        {
+            "id": "der_touristik",
+            "name": "Der Touristik",
+            "code": "dertouristik1836",
+            "tint_color": "",
+            "contrast_tint_color": "",
+            "primary_color": "#cc0017",
+            "primary_light_color": "#e4808a",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_der_touristik.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/der_touristik_narrow.png"
+        },
+        {
+            "id": "jal",
+            "name": "JAL",
+            "code": "jal6632",
+            "tint_color": "#282f39",
+            "contrast_tint_color": "#282f39",
+            "primary_color": "#da2728",
+            "primary_light_color": "#231a16",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_jal.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/jal_narrow.png"
+        },
+        {
+            "id": "kiwi",
+            "name": "Kiwi",
+            "code": "kiwi9975",
+            "tint_color": "#ffffff",
+            "contrast_tint_color": "#bac8d5",
+            "primary_color": "#2a9920",
+            "primary_light_color": "#80d4c8",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_kiwi.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/kiwi_narrow.png"
+        },
+        {
+            "id": "cashi",
+            "name": "Cashi",
+            "code": "cashi1104",
+            "tint_color": "#ffffff",
+            "contrast_tint_color": "#0973b3",
+            "primary_color": "#973b30",
+            "primary_light_color": "#84b9d9",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_cashi.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/cashi_narrow.png"
+        },
+        {
+            "id": "priceline",
+            "name": "Priceline",
+            "code": "priceline1891",
+            "tint_color": "#ffffff",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#7aff00",
+            "primary_light_color": "#7fbcff",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_priceline.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/priceline_narrow.png"
+        },
+        {
+            "id": "accorhotels",
+            "name": "AccorHotels",
+            "code": "accor2877",
+            "tint_color": "#ffffff",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#38b7fe",
+            "primary_light_color": "#38b7fe",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_accorhotels.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/accorhotels_narrow.png"
+        },
+        {
+            "id": "singapore",
+            "name": "Singapore",
+            "code": "singapore4752",
+            "tint_color": "#f8f8f6",
+            "contrast_tint_color": "#041e42",
+            "primary_color": "#41e420",
+            "primary_light_color": "#9d8d76",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_singapore.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/singapore_narrow.png"
+        },
+        {
+            "id": "nokscoot",
+            "name": "NokScoot",
+            "code": "nok1522",
+            "tint_color": "#fee735",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#ffcb0b",
+            "primary_light_color": "#52514e",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_nokscoot.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/nokscoot_narrow.png"
+        },
+        {
+            "id": "jetblue",
+            "name": "JetBlue",
+            "code": "jetblue4492",
+            "tint_color": "#ffffff",
+            "contrast_tint_color": "#3f8edd",
+            "primary_color": "#205b00",
+            "primary_light_color": "#3f8edd",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_jetblue.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/jetblue_narrow.png"
+        },
+        {
+            "id": "lufthansa",
+            "name": "Lufthansa",
+            "code": "lufthansa9773",
+            "tint_color": "#08174a",
+            "contrast_tint_color": "#ffffff",
+            "primary_color": "#8174a0",
+            "primary_light_color": "#384d7c",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_lufthansa.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/lufthansa_narrow.png"
+        }
+    ]
 }
