@@ -221,7 +221,7 @@
             "primary_color": "#08174a",
             "primary_light_color": "#384d7c",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_lufthansa.png",
-            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/lufthansa_narrow.png"
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/lufthansa_wide.png"
         }
     ]
 }
