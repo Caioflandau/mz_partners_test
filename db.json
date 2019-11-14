@@ -8,10 +8,10 @@
         {
             "id": "skyscanner",
             "name": "Skyscanner",
-            "code": null,
+            "code": "",
             "tint_color": "#00b2d6",
             "contrast_tint_color": "#ffffff",
-            "primary_color": "#b2d600",
+            "primary_color": "#00b2d6",
             "primary_light_color": "#7fd8ea",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_skyscanner.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/skyscanner_narrow.png"
@@ -19,10 +19,10 @@
         {
             "id": "despegar",
             "name": "Despegar",
-            "code": null,
+            "code": "",
             "tint_color": "#013fa4",
             "contrast_tint_color": "#ffffff",
-            "primary_color": "#13fa40",
+            "primary_color": "#013fa4",
             "primary_light_color": "#7f9ed1",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_despegar.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/despegar_narrow.png"
@@ -45,7 +45,7 @@
             "tint_color": "#142657",
             "contrast_tint_color": "#ffffff",
             "primary_color": "#21409a",
-            "primary_light_color": "#b3f000",
+            "primary_light_color": "#00b3f0",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_ana.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/ana_narrow.png"
         },
@@ -105,6 +105,17 @@
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/der_touristik_narrow.png"
         },
         {
+            "id": "tokopedia",
+            "name": "Tokopedia",
+            "code": "tokopedia1113",
+            "tint_color": "#f7f7f7",
+            "contrast_tint_color": "#007f34",
+            "primary_color": "#39a84b",
+            "primary_light_color": "#9bd3a4",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_tokopedia.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/tokopedia_narrow.png"
+        },
+        {
             "id": "jal",
             "name": "JAL",
             "code": "jal6632",
@@ -121,10 +132,21 @@
             "code": "kiwi9975",
             "tint_color": "#ffffff",
             "contrast_tint_color": "#bac8d5",
-            "primary_color": "#2a9920",
+            "primary_color": "#02a992",
             "primary_light_color": "#80d4c8",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_kiwi.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/kiwi_narrow.png"
+        },
+        {
+            "id": "europcar",
+            "name": "Europcar",
+            "code": "europcar1949",
+            "tint_color": "#f7f7f7",
+            "contrast_tint_color": "#007f34",
+            "primary_color": "#007f34",
+            "primary_light_color": "#7fbe99",
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_europcar.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/europcar_narrow.png"
         },
         {
             "id": "cashi",
@@ -132,7 +154,7 @@
             "code": "cashi1104",
             "tint_color": "#ffffff",
             "contrast_tint_color": "#0973b3",
-            "primary_color": "#973b30",
+            "primary_color": "#0973b3",
             "primary_light_color": "#84b9d9",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_cashi.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/cashi_narrow.png"
@@ -143,7 +165,7 @@
             "code": "priceline1891",
             "tint_color": "#ffffff",
             "contrast_tint_color": "#ffffff",
-            "primary_color": "#7aff00",
+            "primary_color": "#007aff",
             "primary_light_color": "#7fbcff",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_priceline.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/priceline_narrow.png"
@@ -165,7 +187,7 @@
             "code": "singapore4752",
             "tint_color": "#f8f8f6",
             "contrast_tint_color": "#041e42",
-            "primary_color": "#41e420",
+            "primary_color": "#041e42",
             "primary_light_color": "#9d8d76",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_singapore.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/singapore_narrow.png"
@@ -187,7 +209,7 @@
             "code": "jetblue4492",
             "tint_color": "#ffffff",
             "contrast_tint_color": "#3f8edd",
-            "primary_color": "#205b00",
+            "primary_color": "#00205b",
             "primary_light_color": "#3f8edd",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_jetblue.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/jetblue_narrow.png"
@@ -198,7 +220,7 @@
             "code": "lufthansa9773",
             "tint_color": "#08174a",
             "contrast_tint_color": "#ffffff",
-            "primary_color": "#8174a0",
+            "primary_color": "#08174a",
             "primary_light_color": "#384d7c",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_lufthansa.png",
             "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/lufthansa_narrow.png"
