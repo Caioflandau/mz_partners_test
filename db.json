@@ -198,8 +198,8 @@
             "contrast_tint_color": "#ffffff",
             "primary_color": "#ffcb0b",
             "primary_light_color": "#52514e",
-            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_nokscoot.png",
-            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/nokscoot_narrow.png"
+            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_nok.png",
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/nok_narrow.png"
         },
         {
             "id": "jetblue",
