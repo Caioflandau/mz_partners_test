@@ -177,7 +177,7 @@
             "primary_color": "#38b7fe",
             "primary_light_color": "#38b7fe",
             "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_accorhotels.png",
-            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/accorhotels_narrow.png"
+            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/accor_wide.png"
         },
         {
             "id": "singapore",
