@@ -100,9 +100,7 @@
             "tint_color": "",
             "contrast_tint_color": "",
             "primary_color": "#cc0017",
-            "primary_light_color": "#e4808a",
-            "logo_url": "https://static.mozio.com/mobile/sdk/demo/ic_logo_der_touristik.png",
-            "screen_image_url": "https://static.mozio.com/mobile/sdk/demo/der_touristik_narrow.png"
+            "primary_light_color": "#e4808a"
         },
         {
             "id": "tokopedia",
